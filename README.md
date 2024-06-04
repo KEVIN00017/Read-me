@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kev-silva-212569311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/kev-silva-212569311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn" target="_blank">
   <img  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 </div>
